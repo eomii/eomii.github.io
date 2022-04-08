@@ -34,4 +34,4 @@ to generate hash-locked requirement files.
 If you change dependencies in ``requirements.in``, rebuild
 ``requirements.txt``::
 
-   bazel run @docs//:requirements.update
+   bazel run //:requirements.update
