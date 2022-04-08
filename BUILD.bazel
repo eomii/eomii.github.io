@@ -1,0 +1,12 @@
+# Copyright 2021 eomii. All rights reserved.
+
+"""The public website hosted at eomii.org."""
+
+load(
+    "@rules_python//python/pip_install:requirements.bzl",
+    "compile_pip_requirements",
+)
+
+compile_pip_requirements(
+    name = "requirements",
+)
