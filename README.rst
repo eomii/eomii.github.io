@@ -1,7 +1,7 @@
 The eomii.org website
 =====================
 
-This repository contains the website hosted at `<https://www.qogecoin.org>`_.
+This repository contains the website hosted at `<https://eomii.org>`_.
 
 Setup
 -----
